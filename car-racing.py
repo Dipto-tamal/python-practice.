@@ -28,7 +28,7 @@ bike_speed = 8
 
 # Enemy Bikes
 enemy_bikes = []
-enemy_speed = 6
+enemy_speed = 4
 for i in range(4):
     x = random.randint(260, 600)
     y = random.randint(-600, -100)
